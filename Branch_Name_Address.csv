@@ -1,0 +1,30 @@
+InternalID,CompanyID,CompanyName,CompanySubName,Address,City,Phone,AccurateId,Branch_Name
+1,COM-0001,GoodFellas Barbershop,Ruko Griya Shanta Eksekutif MP 56,Jl. Soekarno Hatta - Malang,Malang,0821-43099786,,Suhat
+2,COM-0002,GoodFellas Intro,Jl. Dharmahusada Indah Timur  Blok. RR No. 19,Surabaya,Surabaya,0812 5555 6664,Intro,Intro
+3,COM-0003,GoodFellas Barbershop,Ruko Plaza Graha Family Blok B-08,Surabaya,Surabaya,0812 3577 7892,Graha,Graha Family
+4,COM-0004,GoodFellas Barbershop,Raya Sukomanunggal Jaya 2K,Surabaya,Surabaya,0822 3305 0900,Sukomanunggal,Sukomanunggal
+5,COM-0005,GoodFellas Barbershop,Arief Rachman Hakim 51C,Surabaya,Surabaya,0812 5555 6665,Klampis,Klampis
+6,COM-0006,GoodFellas Barbershop,Bukit Telaga Golf TA1 No 12 ,Surabaya,Surabaya,0812 9218 8272,9GO,Citraland (9GO)
+7,COM-0007,GoodFellas Barbershop,Retawu No 4,Malang,Malang,0812 3289 8907,,Retawu
+8,COM-0008,GoodFellas Barbershop,Jl. Belatuk 7 No. 12,Samarinda,Samarinda,0822-3066-2118,,Belatuk
+9,COM-0009,GoodFellas Barbershop,Jl. Kalimantan No. 14,Samarinda,Samarinda,0822-3066-2118,,Kalimantan
+10,COM-0010,GoodFellas Barbershop,Ruko Bukit Darmo R-37,Surabaya,Surabaya,0812 3155 2665,BDG,Bukit Darmo Golf
+11,COM-0011,GoodFellas Barbershop,Jl. Achmad Adnawijaya (Pandu Raya) Blok F1 No. 4,Bogor,Bogor,0812 8137 6667,,Pandu Raya
+12,COM-0012,GoodFellas Barbershop,"Jl. Sultan Agung No.55 G, Gajahmungkur",Semarang,Semarang,087777706024,,Sultan Agung
+13,COM-0013,GoodFellas Barbershop,Jl. Margorejo Indah,Surabaya,Surabaya,0812 3577 7893,Margorejo,Margorejo
+14,COM-0014,GoodFellas Barbershop,GoodFellas Home,Surabaya,Surabaya,081,,Goodfellas Home
+15,COM-0015,GoodFellas Barbershop,"Jl. Erlangga Barat 7 No.11A, Pleburan",Semarang,Semarang,081230025024,,Erlangga
+16,COM-0016,GoodFellas Barbershop,Jln.  Kebon Cai no.24 a,Cirebon,Cirebon,0819-1500-6888,,Kebon Cai
+17,COM-0017,GoodFellas Barbershop,Ruko Beach View A 50,Golf Island,Jakarta Utara,081 1657 7882,,PIK
+18,COM-0018,GoodFellas Barbershop,Teras Yasmin Lantai 2,Jalan Abdullah Bin Nuh No. 33-35,Bogor,-,,Yasmin
+19,COM-0019,GoodFellas Barbershop,Bogor 2,Bogor 2,Bogor,-,,Bogor 2
+20,COM-0020,GoodFellas Barbershop,PIK,PIK,Jakarta,-,,PIK_1
+21,COM-0021,GoodFellas Barbershop,NANTI GANTI,NANTI GANTI,NANTI GANTI,-,,
+22,COM-0022,GoodFellas Barbershop,"Jl. Raya Tajur No.25, RT.01/RW.01, Tajur, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16134",Bogor 4,Bogor,-,,Tajur
+23,COM-0023,GoodFellas Barbershop,BSB,Semarang,Semarang,08128 7500 024,,BSB City
+24,COM-0024,GoodFellas Barbershop,Jl. Sudarsono no.45 ,Kecamatan Kesambi,Cirebon,0882-0000-87888,,Sudarsono
+25,COM-0025,GoodFellas Barbershop,"Lotte Mart Bintaro
+","CBD 01-06 Jaya Sektor, Jl. Moh. Husni Thamrin No.7, Pd. Jaya, Kec. Pd. Aren, Kota Tangerang Selatan, Banten - 15224.
+Unit GF-21",Jakarta,081934747477,Bintaro,Lotte Mart Bintaro
+26,COM-0026,GoodFellas Barbershop,GF Citra,Samarinda,Samarinda,-,,
+27,COM-0027,GoodFellas Barbershop,GF Raya Tidar,Malang,Malang,-,,
