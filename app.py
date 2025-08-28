@@ -73,7 +73,7 @@ if branches_df is not None:
             ORDER BY y ASC, m ASC;
         """
         try:
-            rows = DBHelper.query_live_db(sql, (selected_id))
+            rows = DBHelper.query_live_db(sql, (selected_id,))
         except Exception as e:
             st.error(f"Gagal menjalankan query: {e}")
             rows = []
